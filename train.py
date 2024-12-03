@@ -1,1 +1,1 @@
-print("train Deep learning model")
+print("train simple logistic model model")
